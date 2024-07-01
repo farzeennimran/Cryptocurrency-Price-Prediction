@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a project focused on predicting cryptocurrency prices using various machine learning models. The goal is to analyze historical cryptocurrency data and build predictive models to estimate future prices. The dataset used in this project is `crypto-markets.csv`, which contains various features such as open, high, low, close prices, volume, market cap, and rank. 
+This repository contains a project focused on predicting cryptocurrency prices using various machine learning models. The goal is to analyze historical cryptocurrency data and build predictive models to estimate future prices. The dataset used in this project is `crypto-markets.csv`, taken from kaggle, which contains various features such as open, high, low, close prices, volume, market cap, and rank. 
 
 The project includes the following steps:
 1. Data Preprocessing
